@@ -679,8 +679,8 @@ function App() {
 
       <footer className="text-center mt-12 py-6 border-t border-gray-200">
         <p className="text-sm text-gray-500">
-          &copy; {new Date().getFullYear()} Your Conference Name. All rights
-          reserved.
+          &copy; {new Date().getFullYear()} PMK Cardiology Review 2025. All
+          rights reserved.
         </p>
       </footer>
     </div>
